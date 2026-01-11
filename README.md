@@ -134,9 +134,9 @@ The **Random Forest Regressor (untuned)** demonstrated the best predictive perfo
 ---
 
 ## Tech Stack
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost (optional)
+ pandas
+ numpy
+ matplotlib
+ seaborn
+ scikit-learn
+ xgboost (optional)
