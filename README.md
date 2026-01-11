@@ -48,16 +48,15 @@ Visualizations included:
 ---
 
 ## 🏗 Preprocessing Steps
-
-✔ Duplicates removed  
-✔ Invalid dimension outliers removed  
-✔ Ordinal Encoding for:
+ Duplicates removed  
+Invalid dimension outliers removed  
+Ordinal Encoding for:
   - cut
   - color
-  - clarity  
-✔ Train-test split (80/20 ratio)  
-✔ Scaling applied **only to Linear Regression & KNN**  
-✔ Tree models trained without scaling  
+  - clarity
+Train-test split (80/20 ratio)  
+Scaling applied **only to Linear Regression & KNN**  
+Tree models trained without scaling  
 
 Reasoning:
 - Tree-based models are scale invariant
