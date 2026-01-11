@@ -1,0 +1,6 @@
+Model,Train RMSE,Test RMSE,Train R2,Test R2
+Linear Regression,1188,1194,0.881,0.876
+KNN,598,760,0.970,0.950
+Decision Tree,6,607,1.0,0.968
+Random Forest,169,450,0.998,0.982
+Gradient Boosting,532,550,0.976,0.974
