@@ -1,0 +1,7 @@
+Best Params (GridSearch):
+{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+
+Train RMSE: 184.68
+Test RMSE: 493.13
+Train R²: 0.997
+Test R²: 0.979
